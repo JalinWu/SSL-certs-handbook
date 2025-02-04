@@ -53,4 +53,17 @@ openssl x509 -in cert.pem -noout -fingerprint
 ```
 Note: no need ':'
 
+## Test command
+
+- "Install_PFX.bat" [enable] [password] [thumbprint]
+
+    - "Install_PFX.bat" "true" "1234" "b892b6dce79b6861962c39e0493dd5ed4f99ed07"
+
+    - "Install_PFX.bat" "false" "1234" "b892b6dce79b6861962c39e0493dd5ed4f99ed07"
+
+- "Config_RMQ.bat" [enable] 
+
+    - "Config_RMQ.bat" "true"
+
+    - "Config_RMQ.bat" "false"
 

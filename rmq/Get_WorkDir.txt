@@ -1,0 +1,4 @@
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Ericsson\Erlang\ErlSrv\1.1\RabbitMQ
+    WorkDir    REG_EXPAND_SZ    C:\Users\asm\AppData\Roaming\RabbitMQ
+
